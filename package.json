@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Shayneous/profile-generator"
   },
-  "author": "",
+  "author": "https://github.com/Shayneous",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Shayneous/profile-generator/issues"
   },
-  "homepage": "",
+  "homepage": "https://shayneous.github.io/profile-generator/",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
