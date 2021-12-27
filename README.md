@@ -10,7 +10,6 @@ A software engineering team generator command line application
 1. [Classes](#classes)
 1. [User Input](#user-input)
 1. [Roster Output](#roster-output)
-1. [Bonus](#bonus)
 1. [Submission](#submission)
 1. [Development Strategy](#development-strategy)
 1. [Built With](#built-with)
@@ -94,12 +93,6 @@ The project must generate a `team.html` page in the `output` directory, that dis
   * ID
 
   * Role-specific property (School, link to GitHub profile, or office number)
-
-### Bonus
-
-* Use validation to ensure that the information provided is in the proper expected format.
-
-* Add the application to your portfolio.
 
 
 ## Development Strategy
